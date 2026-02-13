@@ -129,7 +129,7 @@ pip install pandas numpy scipy scikit-learn matplotlib seaborn jupyter
    jupyter notebook src/features/build_features.ipynb
    ```
 
-## �� How It Works
+## 🛠 How It Works
 
 ### 1. Low Pass Filtering
 The system uses a Butterworth low-pass filter to remove high-frequency noise from accelerometer and gyroscope data:
