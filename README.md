@@ -31,19 +31,19 @@ A comprehensive machine learning system for tracking and analyzing fitness activ
 ```
 Fitness-Tracker-ML-System/
 │
-├── data/                          # Data directory
-│   ├── raw/                       # Raw sensor data (MetaMotion)
-│   ├── interim/                   # Intermediate processed data
-│   ├── processed/                 # Final processed datasets
-│   └── external/                  # External data sources
+├── data/                           # Data directory
+│   ├── raw/                        # Raw sensor data (MetaMotion)
+│   ├── interim/                    # Intermediate processed data
+│   ├── processed/                  # Final processed datasets
+│   └── external/                   # External data sources
 │
-├── src/                           # Source code
-│   ├── data/                      # Data processing scripts
-│   │   ├── make_dataset.py        # Data loading and preparation
-│   │   └── make_dataset.ipynb     # Interactive data exploration
+├── src/                            # Source code
+│   ├── data/                       # Data processing scripts
+│   │   ├── make_dataset.py         # Data loading and preparation
+│   │   └── make_dataset.ipynb      # Interactive data exploration
 │   │
-│   ├── features/                  # Feature engineering modules
-│   │   ├── DataTransformation.py  # Low Pass Filter & PCA implementation
+│   ├── features/                   # Feature engineering modules
+│   │   ├── DataTransformation.py   # Low Pass Filter & PCA implementation
 │   │   ├── FrequencyAbstraction.py # Fourier Transform feature extraction
 │   │   ├── TemporalAbstraction.py  # Time-domain feature engineering
 │   │   ├── build_features.py       # Feature pipeline
