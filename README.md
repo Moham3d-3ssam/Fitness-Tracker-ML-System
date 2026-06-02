@@ -1,6 +1,6 @@
 # 🏋️ Fitness Tracker ML System
 
-A comprehensive machine learning system for tracking and analyzing fitness activities using wearable sensor data. This project applies advanced signal processing techniques including **Low Pass Filtering** and **Fourier Transformation** to extract meaningful features from accelerometer and gyroscope data, enabling accurate exercise classification and repetition counting.
+comprehensive machine learning system for tracking and analyzing fitness activities using wearable sensor data. This project applies advanced signal processing techniques including **Low Pass Filtering** and **Fourier Transformation** to extract meaningful features from accelerometer and gyroscope data, enabling accurate exercise classification and repetition counting.
 
 ## 🎯 Key Features
 
