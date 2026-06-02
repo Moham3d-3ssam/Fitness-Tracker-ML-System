@@ -51,24 +51,24 @@ Fitness-Tracker-ML-System/
 │   │   ├── count_repetitions.py    # Exercise repetition counting
 │   │   └── *.ipynb                 # Interactive notebooks for each module
 │   │
-│   ├── models/                    # Model training and prediction
-│   │   ├── LearningAlgorithms.py  # ML algorithm implementations
-│   │   ├── train_model.py         # Model training pipeline
-│   │   ├── predict_model.py       # Prediction scripts
-│   │   └── train_model.ipynb      # Interactive model training
+│   ├── models/                     # Model training and prediction
+│   │   ├── LearningAlgorithms.py   # ML algorithm implementations
+│   │   ├── train_model.py          # Model training pipeline
+│   │   ├── predict_model.py        # Prediction scripts
+│   │   └── train_model.ipynb       # Interactive model training
 │   │
-│   └── visualization/             # Visualization tools
-│       ├── visualize.py           # Plotting utilities
-│       ├── plot_settings.py       # Plot configuration
-│       └── visualize.ipynb        # Interactive visualizations
+│   └── visualization/              # Visualization tools
+│       ├── visualize.py            # Plotting utilities
+│       ├── plot_settings.py        # Plot configuration
+│       └── visualize.ipynb         # Interactive visualizations
 │
-├── models/                        # Trained model artifacts
-├── notebooks/                     # Jupyter notebooks for exploration
-├── reports/                       # Generated reports and figures
-├── references/                    # Reference materials and documentation
-├── docs/                          # Additional documentation
+├── models/                         # Trained model artifacts
+├── notebooks/                      # Jupyter notebooks for exploration
+├── reports/                        # Generated reports and figures
+├── references/                     # Reference materials and documentation
+├── docs/                           # Additional documentation
 │
-└── README.md                      # This file
+└── README.md                       # This file
 ```
 
 ## 🔧 Technologies Used
